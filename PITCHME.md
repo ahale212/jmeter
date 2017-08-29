@@ -9,7 +9,10 @@
 
 <br>
 <br>
-JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
+<br>
+<br>
+<br>
+JMeter can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
 
 +++
 
