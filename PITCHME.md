@@ -5,7 +5,7 @@
 
 ### What Is It?
 <img align="left" img src="./assets/bridge.jpeg" width="500" height="200"/>
-<img align="right" img src="./assets/Load_Testing.jpeg" width="500" height="200"/>
+<img align="right" img src="./assets/Load_Testing.jpeg" width="300" height="200"/>
 
 <br>
 <br>
