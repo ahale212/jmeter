@@ -4,11 +4,11 @@
 +++
 
 ### What Is It?
-<img src="./assets/bridge.jpeg" width="300" height="200"/>
+<img src="./assets/bridge.jpeg" width="400" height="150"/>
 
 JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
 
-<img src="./assets/Load_Testing.jpeg" width="300" height="200"/>
+<img src="./assets/Load_Testing.jpeg" width="300" height="100"/>
 +++
 
 ### How Can We Use It?
