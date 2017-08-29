@@ -4,7 +4,7 @@
 +++
 
 ### What Is It?
-<img align="left" img src="./assets/bridge.jpeg" width="500" height="200"/>
+<img align="left" img src="./assets/bridge.jpeg" width="300" height="200"/>
 <img align="right" img src="./assets/Load_Testing.jpeg" width="300" height="200"/>
 
 <br>
@@ -42,6 +42,8 @@ https://github.com/ahale212/jmeter
 +++
 
 ### Feedback / Questions
-Gauge feedback `ahalh` / Direct feedback
+Direct feedback
+<br>
+Gauge feedback `ahalh` 
 
-Any Questions?
+<strong>Any Questions?</strong>
